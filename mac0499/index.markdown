@@ -9,7 +9,7 @@ title: MAC0499
 
 # Introduction
 
-This is the page of the undergraduate thesis of **Antônio Fernando Silva e Cruz Filho** e **João Gabriel Andrade de Araujo Josephik**, advised by Professor **Nina Hirata**.
+This is the page of the undergraduate thesis of **Antonio Fernando Silva e Cruz Filho** e **João Gabriel Andrade de Araujo Josephik**, advised by Professor **Nina Hirata**.
 
 The goal of the project is to study, explore and compare different explainability methods for Convolutional Neural Networks.
 
